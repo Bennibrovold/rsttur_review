@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rsttur_review/static/css/main.86e4044e.chunk.css",
+    "main.js": "/rsttur_review/static/js/main.008decdb.chunk.js",
+    "main.js.map": "/rsttur_review/static/js/main.008decdb.chunk.js.map",
+    "runtime-main.js": "/rsttur_review/static/js/runtime-main.c6beb809.js",
+    "runtime-main.js.map": "/rsttur_review/static/js/runtime-main.c6beb809.js.map",
+    "static/js/2.91b03533.chunk.js": "/rsttur_review/static/js/2.91b03533.chunk.js",
+    "static/js/2.91b03533.chunk.js.map": "/rsttur_review/static/js/2.91b03533.chunk.js.map",
+    "static/js/3.7b150e3d.chunk.js": "/rsttur_review/static/js/3.7b150e3d.chunk.js",
+    "static/js/3.7b150e3d.chunk.js.map": "/rsttur_review/static/js/3.7b150e3d.chunk.js.map",
+    "index.html": "/rsttur_review/index.html",
+    "static/css/main.86e4044e.chunk.css.map": "/rsttur_review/static/css/main.86e4044e.chunk.css.map",
+    "static/js/2.91b03533.chunk.js.LICENSE.txt": "/rsttur_review/static/js/2.91b03533.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rsttur_review/static/media/Inter-Regular.9cd7588f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6beb809.js",
+    "static/js/2.91b03533.chunk.js",
+    "static/css/main.86e4044e.chunk.css",
+    "static/js/main.008decdb.chunk.js"
+  ]
+}
